@@ -1,0 +1,19 @@
+
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "password": "password789",
+        "photo": "user",
+        "percent": 4,
+        "bonuses": 267
+    },
+    {
+            "id": 2,
+            "name": "Jane Smith",
+            "password": "password456",
+            "photo": "jane_smith",
+            "percent": 70,
+            "bonuses": 50
+    }
+]
